@@ -6,7 +6,7 @@
 - **Yeni dosya oluşturun ve terminal/cmd açın**
 
 # 2.Adım
-- **Açtığınız terminal/cmd içine `npm create vite@latest` yazarak dosyaların oluşturulmasını sağlayın **
+- **Açtığınız terminal/cmd içine `npm create vite@latest` yazarak dosyaların oluşturulmasını sağlayın**
 - Not: `Project Name . yazabilirsiniz dosyanın içine kurar. Dosya içine dosya kurmasını istiyorsanız bir dosya adı yazını. Ekranda çıkan adımları tektek uygulayınız.`
 
 # 3.Adım
